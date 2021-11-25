@@ -1,5 +1,7 @@
 id: P008134
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN4918
   title: སྨྱུང་གནས་ཀྱི་རྣམ་བཤད་དང་ཕན་ཡོན་སྐོར་ཕྱོགས་བསྒྲིགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 398
       base_file: v001.txt
-ebook_metadata:
-  title: སྨྱུང་གནས་ཀྱི་རྣམ་བཤད་དང་ཕན་ཡོན་སྐོར་ཕྱོགས་བསྒྲིགས།
-  author: ''
-  sku: P008134
-  cover: cover.jpg
-  layers:
-  - pagination
